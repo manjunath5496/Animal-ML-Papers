@@ -4,72 +4,64 @@
 
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(1).pdf" style="text-decoration:none;">A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapping</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(2).pdf" style="text-decoration:none;">idtracker.ai: Tracking all individuals in large collectives of unmarked animals</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(3).pdf" style="text-decoration:none;">Lions and Tigers and Bears:
+Capturing Non-Rigid, 3D, Articulated Shape from Images</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(4).pdf" style="text-decoration:none;">Robust Inside-Outside Segmentation using Generalized Winding Numbers</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(5).pdf" style="text-decoration:none;">Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(6).pdf" style="text-decoration:none;">Adversarial Examples that Fool both Computer
+Vision and Time-Limited Humans</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(7).pdf" style="text-decoration:none;">Learning Features by Watching Objects Move</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(8).pdf" style="text-decoration:none;"> FreiPose: A Deep Learning Framework for
+Precise Animal Motion Capture in 3D Spaces </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(9).pdf" style="text-decoration:none;">Image-to-Image Translation with Conditional Adversarial Networks</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(10).pdf" style="text-decoration:none;">Spin Transformations of Discrete Surfaces</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(11).pdf" style="text-decoration:none;">Mobius Voting For Surface Correspondence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(12).pdf" style="text-decoration:none;">Light Field Video Capture Using a Learning-Based Hybrid Imaging System</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(13).pdf" style="text-decoration:none;">Infill Optimization for Additive Manufacturing–Approaching Bone-like Porous Structures</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(14).pdf" style="text-decoration:none;">Cats and Dogs</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(15).pdf" style="text-decoration:none;">What Else Can Fool Deep Learning?
+Addressing Color Constancy Errors on Deep Neural Network Performance</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(16).pdf" style="text-decoration:none;">Apparent Display Resolution Enhancement for Moving Images</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(17).pdf" style="text-decoration:none;">Gait-level analysis of mouse open field behavior using deep learning-based pose estimation</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(18).pdf" style="text-decoration:none;">3D pose estimation of flying animals in multi-view video datasets</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(19).pdf" style="text-decoration:none;">Multimodal Unsupervised
+Image-to-Image Translation</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(20).pdf" style="text-decoration:none;">Cross-Domain Adaptation for Animal Pose Estimation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(21).pdf" style="text-decoration:none;">Unsupervised learning of object landmarks by factorized spatial embeddings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(22).pdf" style="text-decoration:none;">Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture from Images "In the Wild"</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(23).pdf" style="text-decoration:none;">AnimalWeb: A Large-Scale Hierarchical Dataset of Annotated Animal Faces</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(24).pdf" style="text-decoration:none;">Articulation-aware Canonical Surface Mapping</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(25).pdf" style="text-decoration:none;">Learning 3D Deformation of Animals from 2D Images</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(26).pdf" style="text-decoration:none;">TextureMontage:
+Seamless Texturing of Arbitrary Surfaces From Multiple Images</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(27).pdf" style="text-decoration:none;">OpenMonkeyStudio: Automated Markerless
+Pose Estimation in Freely Moving Macaques</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(28).pdf" style="text-decoration:none;">Blended Intrinsic Maps</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(29).pdf" style="text-decoration:none;">Understanding Image Virality </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(30).pdf" style="text-decoration:none;">Halftone QR Codes</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Animal-ML-Papers/blob/master/z(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
 POSIX Multikernel</a></li> 
